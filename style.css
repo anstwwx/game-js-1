@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    background-image: url(https://img1.akspic.ru/previews/5/3/0/9/7/179035/179035-voda-gora-gidroresursy-rastenie-oblako-550x310.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  body *{
+    opacity: 0.8;
+    font-size: 40px;
+  }
+  input{
+    text-align: center;
+  }
